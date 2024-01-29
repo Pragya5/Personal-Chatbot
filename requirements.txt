@@ -1,0 +1,12 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+mimetypes
+pandas
+matplotlib
+seaborn
+faiss-cpu
+langchain_google_genai
+docx
