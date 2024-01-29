@@ -3,4 +3,6 @@ Generative AI Application  Welcome to our Generative AI application! This user-f
 
 # Requirements
 In order to run the .py file, we need to download the required dependencies and libraries.
+
 pip install -r requirements.txt
+
